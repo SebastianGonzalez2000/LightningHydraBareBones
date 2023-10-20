@@ -1,3 +1,4 @@
 MNIST
 lightning_logs
 LIGHTNING_HYDRA_DEPS
+outputs

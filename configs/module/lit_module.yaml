@@ -1,0 +1,9 @@
+_target_: src.models.lit_module.LitModule
+
+model:
+  _target_: src.models.components.autoencoder.AutoEncoder
+  input_size: 784
+  e_l1_out: 64
+  e_l2_out: 3
+  d_l1_out: 64
+

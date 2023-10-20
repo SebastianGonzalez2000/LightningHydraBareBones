@@ -1,0 +1,5 @@
+defaults:
+  - _self_
+  - data: mnist
+  - module: lit_module
+  - trainer: trainer
