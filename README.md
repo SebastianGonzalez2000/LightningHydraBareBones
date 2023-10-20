@@ -2,4 +2,8 @@
 
 Bare bones PyTorch Lightning + Hydra experiment template. 
 
-run: python3 src/train.py
+To run experiments execute: 
+```
+pip install -r requirements.txt
+python3 src/train.py
+```
